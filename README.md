@@ -1,2 +1,0 @@
-# krunal-project
-kite beauty
